@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Star</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="sign_in_message">you are successfully logedin into Facebook</string>
+
+    <color name="back">#000000</color>
+
+    <string name="title_activity_scroll">ScrollActivity</string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_item_list">Items</string>
+
+</resources>
